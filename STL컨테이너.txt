@@ -20,10 +20,7 @@ STL 컨테이너 종류
 	- 일정 규칙에 따라 조직화된 컨테이너입니다.
 	- set, multiset, map …
 
-3. 어뎁터 컨테이너
+3. 어댑터 컨테이너
 	- 시퀀스나 연관 컨테이너를 변형하여 정해진 방식으로 관리합니다.
 	- stack, queue …
 
-
-참조:
-	https://techbless.github.io/2020/11/04/C-STL-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%9A%94%EC%95%BD-%EC%A0%95%EB%A6%AC/
