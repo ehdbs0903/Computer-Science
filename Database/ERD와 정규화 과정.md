@@ -2,7 +2,7 @@
 ERD(Entity Relationship Diagram)는 릴레이션 간의 관계들을 정의한 것으로, 데이터베이스를 구축할 때 가장 기초적인 뼈대 역할을 한다.
 <br></br>
 
- 
+
 
  
 
